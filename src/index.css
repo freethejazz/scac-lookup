@@ -1,0 +1,23 @@
+@import url('../node_modules/searchkit/release/theme.css');
+
+.my-logo {
+  color:white;
+  flex:0 0 250px;
+  padding:13px 20px;
+  margin-right:15px;
+  line-height: 16px;
+}
+
+.result-row {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.code {
+  width: 80px;
+  display: inline-block;
+}
+
+.carrier {
+
+}
