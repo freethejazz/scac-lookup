@@ -1,6 +1,6 @@
 {
   "name": "searchkit-starter",
-  "homepage": "https://freethejazz.io/scac-lookups",
+  "homepage": "https://freethejazz.io/scac-lookup",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
